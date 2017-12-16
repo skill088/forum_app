@@ -1,0 +1,446 @@
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:22 - Launching the application...
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:23 - Operating System: Windows 10 10.0
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:27 - JRE: 1.8.0_112
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:28 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:29 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:30 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:31 - User Home Directory: C:\Users\Vovka
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:32 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:33 - Test INFO logging.
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:22 - Launching the application...
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:23 - Operating System: Windows 10 10.0
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:27 - JRE: 1.8.0_112
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:28 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:29 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:30 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:31 - User Home Directory: C:\Users\Vovka
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:32 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+10.17:11.25.10  INFO	ru.sfedu.messenger.MessengerClient:33 - Test INFO logging.
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:22 - Launching the application...
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:23 - Operating System: Windows 10 10.0
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:27 - JRE: 1.8.0_112
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:28 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:29 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:30 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:31 - User Home Directory: C:\Users\Vovka
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:32 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+10.29:19.53.40  INFO	ru.sfedu.messenger.MessengerClient:33 - Test INFO logging.
+10.29:20.07.33  INFO	ru.sfedu.messenger.model.CSVDataProvider:46 - [Ljava.lang.String;@47fd17e3
+10.29:20.11.32  INFO	ru.sfedu.messenger.model.CSVDataProvider:46 - [Ljava.lang.String;@47fd17e3
+10.29:20.12.13  INFO	ru.sfedu.messenger.model.CSVDataProvider:46 - [Ljava.lang.String;@47fd17e3
+10.29:20.33.35  INFO	ru.sfedu.messenger.model.CSVDataProvider:46 - [Ljava.lang.String;@47fd17e3
+10.29:20.51.41  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - 0mmm..testingthis is some testing bodyposter #1modified #1
+
+10.29:20.51.41  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - 0mmm..testingthis is some testing bodyposter #2modified #2
+
+10.29:20.51.41  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - 0mmm..testingthis is some testing bodyposter #3modified #3
+
+10.29:20.52.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - 1mmm..testingthis is some testing bodyposter #1modified #1
+
+10.29:20.52.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - 2mmm..testingthis is some testing bodyposter #2modified #2
+
+10.29:20.52.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - 3mmm..testingthis is some testing bodyposter #3modified #3
+
+10.29:20.55.08  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - 1mmm..testingthis is some testing bodyposter #1modified #1
+
+10.29:20.55.08  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - 2mmm..testingthis is some testing bodyposter #2modified #2
+
+10.29:21.04.41  INFO	ru.sfedu.messenger.MessengerClient:19 - lol
+10.29:21.04.41  INFO	ru.sfedu.messenger.B:41 - kek
+10.29:21.08.32  INFO	ru.sfedu.messenger.MessengerClient:19 - lol
+10.29:21.08.32  INFO	ru.sfedu.messenger.B:41 - kek
+10.29:21.18.16  INFO	ru.sfedu.messenger.MessengerClient:19 - lol
+10.29:21.18.48  INFO	ru.sfedu.messenger.MessengerClient:19 - lol
+10.30:00.03.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 1
+
+10.30:00.03.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 2
+
+10.30:00.03.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 3
+
+10.30:14.09.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 1
+
+10.30:14.09.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 2
+
+10.30:14.09.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 4
+
+10.30:19.12.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:52 - ������ ��: 2
+
+10.30:19.15.20  INFO	ru.sfedu.messenger.model.CSVDataProvider:52 - Post item:  2 mmm..testing this is some testing body poster #2 modified #2
+
+10.30:19.15.39  INFO	ru.sfedu.messenger.model.CSVDataProvider:52 - Post item:  4 mmm..testing this is some testing body poster #3 modified #3
+
+10.30:19.39.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - Post item:  6 here is some test
+
+10.30:19.44.45  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - Post item:  6 here is some test
+
+10.30:19.58.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - 6,here,is,some,test
+10.30:19.59.50  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - 6,here,is,some,test
+10.30:20.07.38  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 6,here,is,some,test
+10.30:20.16.17  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 6,here,is,some,test
+10.30:20.18.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 6,here,is,some,test
+10.30:20.28.07  INFO	ru.sfedu.messenger.model.CSVDataProvider:85 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.30:20.28.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:85 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.30:20.29.50  INFO	ru.sfedu.messenger.model.CSVDataProvider:85 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.30.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:85 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.30.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 6,here,is,some,test
+10.30:20.31.08  INFO	ru.sfedu.messenger.model.CSVDataProvider:85 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.31.08  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - 6,here,is,some,test
+10.30:20.31.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:85 - ru.sfedu.messenger.model.dto.PostItemDTO@129a8472
+10.30:20.31.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:51 - ru.sfedu.messenger.model.dto.PostItemDTO@2752f6e2
+10.30:20.40.48  INFO	ru.sfedu.messenger.model.CSVDataProvider:84 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.40.48  INFO	ru.sfedu.messenger.model.CSVDataProvider:50 - 6,here,is,some,test
+10.30:20.42.41  INFO	ru.sfedu.messenger.model.CSVDataProvider:84 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.42.41  INFO	ru.sfedu.messenger.model.CSVDataProvider:50 - 6,here,is,some,test
+10.30:20.47.07  INFO	ru.sfedu.messenger.model.CSVDataProvider:84 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.47.07  INFO	ru.sfedu.messenger.model.CSVDataProvider:50 - 6,here,is,some,test
+10.30:20.48.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:84 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.48.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:50 - 6,here,is,some,test
+10.30:20.52.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:80 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.52.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 6,here,is,some,test
+10.30:20.52.54  INFO	ru.sfedu.messenger.model.CSVDataProvider:80 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.53.43  INFO	ru.sfedu.messenger.model.CSVDataProvider:80 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.53.43  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 6,here,is,some,test
+10.30:20.57.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:80 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:20.57.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 6,here,is,some,test
+10.30:21.00.39  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 6,here,is,some,test
+10.30:21.00.54  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 6,here,is,some,test
+10.30:21.01.46  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 6,here,is,some,test
+10.30:21.02.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:80 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:21.02.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 6,here,is,some,test
+10.30:21.03.01  INFO	ru.sfedu.messenger.model.CSVDataProvider:80 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:21.03.01  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 5,here,is,some,test
+10.30:21.11.14  INFO	ru.sfedu.messenger.model.CSVDataProvider:69 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:21.11.14  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 25,here,is,some,test
+10.30:21.13.51  INFO	ru.sfedu.messenger.model.CSVDataProvider:69 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:21.13.51  INFO	ru.sfedu.messenger.model.CSVDataProvider:49 - 8,here,is,some,test
+10.30:21.14.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:72 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:21.14.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:52 - 8,here,is,some,test
+10.30:23.42.16  INFO	ru.sfedu.messenger.model.CSVDataProvider:76 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.44.13  INFO	ru.sfedu.messenger.model.CSVDataProvider:76 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.45.16  INFO	ru.sfedu.messenger.model.CSVDataProvider:76 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.46.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:74 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.50.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:74 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.52.38  INFO	ru.sfedu.messenger.model.CSVDataProvider:74 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.53.03  INFO	ru.sfedu.messenger.model.CSVDataProvider:74 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.53.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:74 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.54.55  INFO	ru.sfedu.messenger.model.CSVDataProvider:78 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.55.55  INFO	ru.sfedu.messenger.model.CSVDataProvider:78 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.30:23.55.55  INFO	ru.sfedu.messenger.model.CSVDataProvider:68 - Uncompilable source code - Erroneous tree type: <any>
+
+
+
+
+
+10.30:23.56.57  INFO	ru.sfedu.messenger.model.CSVDataProvider:74 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.30:23.57.55  INFO	ru.sfedu.messenger.model.CSVDataProvider:74 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.30:23.59.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.59.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.30:23.59.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.30:23.59.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 6,here,is,some,test
+10.30:23.59.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 5,here,is,some,test
+10.30:23.59.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 4,here,is,some,test
+10.30:23.59.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 8,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 6,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 5,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 4,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 8,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 0,null,null,null,null
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 6,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 5,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 4,here,is,some,test
+10.30:23.59.52  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 8,here,is,some,test
+10.31:00.00.28  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.31:00.00.28  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.31:00.00.28  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.31:00.00.28  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 6,here,is,some,test
+10.31:00.00.28  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 5,here,is,some,test
+10.31:00.00.28  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 4,here,is,some,test
+10.31:00.00.28  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 8,here,is,some,test
+
+
+
+
+10.31:00.18.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.31:00.18.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.31:00.18.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.31:00.18.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 4,here,is,some,test
+10.31:00.18.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 5,here,is,some,test
+10.31:00.18.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 6,here,is,some,test
+10.31:00.18.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 7,here,is,some,test
+10.31:00.19.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.31:00.19.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.31:00.19.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.31:00.19.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 4,here,is,some,test
+10.31:00.19.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 5,here,is,some,test
+10.31:00.19.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 6,here,is,some,test
+10.31:00.19.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 7,here,is,some,test
+
+
+
+10.31:00.20.27  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 1,mmm..testing,this is some testing body,poster #1,modified #1
+10.31:00.20.27  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 2,mmm..testing,this is some testing body,poster #2,modified #2
+10.31:00.20.27  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 3,mmm..testing,this is some testing body,poster #2,modified #3
+10.31:00.20.27  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 4,here,is,some,test
+10.31:00.20.27  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 5,here,is,some,test
+10.31:00.20.27  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 6,here,is,some,test
+10.31:00.20.27  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - 7,here,is,some,test
+
+11.06:17.38.14  INFO	ru.sfedu.messenger.model.CSVDataProvider:119 - 3,mmm..testing,this is some testing body,poster #3,modified #3
+11.06:17.40.41  INFO	ru.sfedu.messenger.model.CSVDataProvider:120 - 3,mmm..testing,this is some testing body,poster #3,modified #3
+11.06:18.04.15  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 8,here,is,some,test
+11.06:18.05.04  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 8,here,is,some,test
+11.06:18.05.17  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 9,here,is,some,test
+11.06:18.05.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 10,here,is,some,test
+11.06:18.15.54  INFO	ru.sfedu.messenger.model.CSVDataProvider:147 - 3,mmm..testing,this is some testing body,poster #3,modified #3
+11.06:18.15.54  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 11,here,is,some,test
+11.06:18.53.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:147 - 3,mmm..testing,this is some testing body,poster #3,modified #3
+11.06:18.53.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 12,here,is,some,test
+11.06:18.54.06  INFO	ru.sfedu.messenger.model.CSVDataProvider:147 - 3,mmm..testing,this is some testing body,poster #3,modified #3
+11.06:18.54.06  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 12,here,is,some,test
+11.06:18.54.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:147 - 3,mmm..testing,this is some testing body,poster #3,modified #3
+11.06:18.54.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - 12,here,is,some,test
+11.06:19.29.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:115 - 13,here,is,some,test
+11.06:19.30.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 13,here,is,some,test
+11.06:19.30.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - Such id already exists
+11.06:19.35.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:115 - ru.sfedu.messenger.model.dto.UserDTO@7e0babb1
+11.06:19.36.38  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - ru.sfedu.messenger.model.dto.UserDTO@66d33a
+11.06:19.36.38  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - ru.sfedu.messenger.model.dto.UserDTO@7dc36524
+11.06:19.36.38  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - Such id already exists
+
+
+11.06:19.38.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 13,itan,itan007
+11.06:19.38.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 13,itan,itan007
+11.06:19.38.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:111 - Such id already exists
+11.06:22.52.18  INFO	ru.sfedu.messenger.model.CSVDataProvider:114 - 13,itan,itan007
+11.06:22.52.46  INFO	ru.sfedu.messenger.model.CSVDataProvider:150 - 13,itan,itan007
+11.06:22.52.46  INFO	ru.sfedu.messenger.model.CSVDataProvider:114 - 12,itan,itan007
+
+11.06:22.55.13  INFO	ru.sfedu.messenger.model.CSVDataProvider:114 - 1,steff,steff89
+11.06:22.56.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:113 - 1,steff,steff89
+11.06:22.57.47  INFO	ru.sfedu.messenger.model.CSVDataProvider:114 - 1,steff,steff89
+
+
+11.06:22.58.06  INFO	ru.sfedu.messenger.model.CSVDataProvider:150 - 13,itan007,itan
+11.06:23.00.44  INFO	ru.sfedu.messenger.model.CSVDataProvider:150 - 2,mike,mike96
+11.06:23.01.14  INFO	ru.sfedu.messenger.model.CSVDataProvider:114 - 3,jake,jake87
+
+
+11.06:23.15.03  INFO	ru.sfedu.messenger.model.CSVDataProvider:47 - Unable to satisfy @org.simpleframework.xml.Attribute(name=, required=true, empty=) on field 'id' private long ru.sfedu.messenger.model.dto.MessageDTO.id for class ru.sfedu.messenger.model.dto.MessageDTO at line 1
+11.06:23.15.40  INFO	ru.sfedu.messenger.model.CSVDataProvider:45 - MessageDTO{id=1, body=This is the body of the first message, author=Moisey, posted=1509997330}
+
+11.06:23.28.09  INFO	ru.sfedu.messenger.model.CSVDataProvider:50 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+
+11.06:23.28.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:50 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+
+11.06:23.29.19  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - MessageDTO{id=1, body=This is the body of the first message, author=Moisey, posted=1509997330}
+11.06:23.29.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - MessageDTO{id=1, body=This is the body of the first message, author=Moisey, posted=1509997330}
+
+11.06:23.30.05  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - MessageDTO{id=3, body=This is the body of the first message, author=Moisey, posted=1509997330}
+
+11.06:23.32.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - MessageDTO{id=1, body=This is the body of the first message, author=Moisey, posted=1509997330}
+11.06:23.32.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:48 - MessageDTO{id=1, body=This is the body of the first message, author=Moisey, posted=1509997330}
+
+
+11.07:00.08.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.10.33  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+
+11.07:00.11.49  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.15.34  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.16.48  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+
+11.07:00.17.03  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.18.09  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+
+11.07:00.20.47  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.24.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+
+11.07:00.26.22  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+
+11.07:00.33.46  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.34.03  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.34.37  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.35.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.35.56  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.36.37  INFO	ru.sfedu.messenger.model.CSVDataProvider:59 - Element 'id' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+
+11.07:00.39.53  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.39.53  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.42.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.42.23  INFO	ru.sfedu.messenger.model.CSVDataProvider:55 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.45.07  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.45.07  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.45.07  INFO	ru.sfedu.messenger.model.CSVDataProvider:87 - java.lang.NullPointerException
+11.07:00.46.29  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.46.29  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.47.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.47.00  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.47.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.47.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.49.57  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.49.57  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.49.57  INFO	ru.sfedu.messenger.model.CSVDataProvider:89 - org.simpleframework.xml.transform.TransformException: Transform of class java.util.ArrayList not supported
+11.07:00.52.46  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.52.46  INFO	ru.sfedu.messenger.model.CSVDataProvider:56 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+11.07:00.58.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:62 - Element 'message' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.58.58  INFO	ru.sfedu.messenger.model.CSVDataProvider:90 - java.lang.NullPointerException
+11.07:00.59.33  INFO	ru.sfedu.messenger.model.CSVDataProvider:62 - Element 'message' does not have a match in class ru.sfedu.messenger.model.dto.ElementsList at line 2
+11.07:00.59.55  INFO	ru.sfedu.messenger.model.CSVDataProvider:58 - MessageDTO{id=4, body=some body, author=some author, posted=1312312312}
+11.07:00.59.55  INFO	ru.sfedu.messenger.model.CSVDataProvider:58 - MessageDTO{id=5, body=some second body, author=some another author, posted=1312312312}
+
+11.07:01.09.11  INFO	ru.sfedu.messenger.model.CSVDataProvider:54 - Can not construct inner class ru.sfedu.messenger.model.XMLDataProvider$UserList
+11.07:01.09.53  INFO	ru.sfedu.messenger.model.CSVDataProvider:54 - Can not construct inner class ru.sfedu.messenger.model.XMLDataProvider$UserList
+
+11.07:01.11.47  INFO	ru.sfedu.messenger.model.CSVDataProvider:52 - 1,Vasya,someLogin
+11.07:01.11.47  INFO	ru.sfedu.messenger.model.CSVDataProvider:52 - 2,Petya,someLogin2
+11.07:01.36.25  INFO	ru.sfedu.messenger.model.CSVDataProvider:97 - 2,Petya,someLogin2
+
+11.07:01.37.31  INFO	ru.sfedu.messenger.model.CSVDataProvider:97 - 2,Petya,someLogin2
+11.07:01.46.42  INFO	ru.sfedu.messenger.model.CSVDataProvider:153 - 2,Petya,someLogin2
+11.07:01.46.42  INFO	ru.sfedu.messenger.model.CSVDataProvider:93 - 3,Misha,mikhail007
+11.07:01.47.09  INFO	ru.sfedu.messenger.model.CSVDataProvider:93 - 3,Misha,mikhail007
+11.07:01.47.54  INFO	ru.sfedu.messenger.model.CSVDataProvider:93 - 3,Misha,mikhail007
+11.07:01.47.54  INFO	ru.sfedu.messenger.model.CSVDataProvider:153 - 2,Petya,someLogin2
+11.07:01.47.54  INFO	ru.sfedu.messenger.model.CSVDataProvider:93 - 2,Petya,someLogin2
+11.07:01.48.16  INFO	ru.sfedu.messenger.model.CSVDataProvider:153 - 2,Petya,someLogin2
+11.07:01.48.16  INFO	ru.sfedu.messenger.model.CSVDataProvider:93 - 2,Petya,someLogin2
+11.13:19.31.26  INFO	ru.sfedu.messenger.model.CSVDataProvider:153 - 2,Petya,someLogin2
+11.13:19.31.44  INFO	ru.sfedu.messenger.model.CSVDataProvider:153 - 2,Petya,someLogin2
+11.13:19.32.26  INFO	ru.sfedu.messenger.model.XMLDataProvider:153 - 2,Petya,someLogin2
+
+
+11.13:19.55.00  INFO	ru.sfedu.messenger.model.XMLDataProvider:161 - 2,Petya,someLogin2
+11.13:19.57.36  INFO	ru.sfedu.messenger.model.XMLDataProvider:161 - 2,Petya,someLogin2
+11.13:19.57.36  INFO	ru.sfedu.messenger.model.XMLDataProvider:161 - 2,Petya,someLogin2
+11.13:20.21.09  INFO	ru.sfedu.messenger.model.XMLDataProvider:164 - 2,Petya,someLogin2
+11.13:20.50.48  INFO	ru.sfedu.messenger.model.CSVDataProvider:152 - 2,mike,mike96
+11.13:21.39.10  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+11.13:21.39.10  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+11.13:21.39.37  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+11.13:21.39.37  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+
+
+11.13:22.04.03  INFO	ru.sfedu.messenger.model.XMLDataProvider:175 - 2,Petya,someLogin2
+11.13:22.06.28  INFO	ru.sfedu.messenger.model.XMLDataProvider:175 - 2,Petya,someLogin2
+11.13:22.10.37  INFO	ru.sfedu.messenger.model.XMLDataProvider:175 - 
+11.13:22.11.04  INFO	ru.sfedu.messenger.model.XMLDataProvider:175 - 
+11.13:22.11.15  INFO	ru.sfedu.messenger.model.XMLDataProvider:187 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.11.15  INFO	ru.sfedu.messenger.model.XMLDataProvider:71 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.14.35  INFO	ru.sfedu.messenger.model.XMLDataProvider:197 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.14.35  INFO	ru.sfedu.messenger.model.XMLDataProvider:81 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.15.43  INFO	ru.sfedu.messenger.model.XMLDataProvider:197 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.15.43  INFO	ru.sfedu.messenger.model.XMLDataProvider:81 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.15.50  INFO	ru.sfedu.messenger.model.XMLDataProvider:197 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.15.50  INFO	ru.sfedu.messenger.model.XMLDataProvider:81 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.16.31  INFO	ru.sfedu.messenger.model.XMLDataProvider:198 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.16.31  INFO	ru.sfedu.messenger.model.XMLDataProvider:82 - javax.xml.stream.XMLStreamException: ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+
+11.13:22.18.09  INFO	ru.sfedu.messenger.model.XMLDataProvider:197 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.18.09  INFO	ru.sfedu.messenger.model.XMLDataProvider:81 - class javax.xml.stream.XMLStreamException
+11.13:22.19.12  INFO	ru.sfedu.messenger.model.XMLDataProvider:185 - 
+11.13:22.19.54  INFO	ru.sfedu.messenger.model.XMLDataProvider:197 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.20.53  INFO	ru.sfedu.messenger.model.XMLDataProvider:198 - ParseError at [row,col]:[1,1]
+Message: Premature end of file.
+11.13:22.32.33  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 2,Petya,someLogin2
+11.13:22.32.33  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 
+11.13:22.33.21  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 2,Petya,someLogin2
+11.13:22.33.21  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:23 - Launching the application...
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:24 - Operating System: Windows 10 10.0
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:28 - JRE: 1.8.0_112
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:29 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:30 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Vovka\.m2\repository\mysql\mysql-connector-java\8.0.8-dmr\mysql-connector-java-8.0.8-dmr.jar;
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:31 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:32 - User Home Directory: C:\Users\Vovka
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:33 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+12.10:19.20.16  INFO	ru.sfedu.messenger.MessengerClient:34 - Test INFO logging.
+12.10:19.20.18  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.10:19.20.18  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.10:19.20.19  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 2,Petya,someLogin2
+12.10:19.20.19  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 
+12.10:21.25.26 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:54 - java.sql.SQLSyntaxErrorException: Table 'messages.users' doesn't exist
+12.10:21.42.33 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:64 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`messenger`.`messages`, CONSTRAINT `FK_Messages_Users` FOREIGN KEY (`author`) REFERENCES `Users` (`id`))
+12.10:22.10.08 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:70 - java.sql.SQLException: Column count doesn't match value count at row 1
+12.10:22.10.55 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:70 - java.sql.SQLSyntaxErrorException: Unknown column 'title' in 'field list'
+12.11:21.24.50 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:70 - java.sql.SQLException: Incorrect integer value: 'null' for column 'author' at row 1
+12.11:21.25.53 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:70 - java.sql.SQLException: Data truncated for column 'author' at row 1
+12.11:21.28.03 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:71 - java.sql.SQLException: Data truncated for column 'author' at row 1
+12.11:21.29.45 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:71 - java.sql.SQLException: Data truncated for column 'author' at row 1
+12.11:21.40.28 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:107 - java.sql.SQLSyntaxErrorException: Table 'messenger.books' doesn't exist
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:23 - Launching the application...
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:24 - Operating System: Windows 10 10.0
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:28 - JRE: 1.8.0_112
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:29 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:30 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Vovka\.m2\repository\mysql\mysql-connector-java\8.0.8-dmr\mysql-connector-java-8.0.8-dmr.jar;
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:31 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:32 - User Home Directory: C:\Users\Vovka
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:33 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+12.16:13.28.20  INFO	ru.sfedu.messenger.MessengerClient:34 - Test INFO logging.
+12.16:13.28.21  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.28.21  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.28.21  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 2,Petya,someLogin2
+12.16:13.28.21  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:23 - Launching the application...
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:24 - Operating System: Windows 10 10.0
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:28 - JRE: 1.8.0_112
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:29 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:30 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Vovka\.m2\repository\mysql\mysql-connector-java\8.0.8-dmr\mysql-connector-java-8.0.8-dmr.jar;
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:31 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:32 - User Home Directory: C:\Users\Vovka
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:33 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+12.16:13.29.51  INFO	ru.sfedu.messenger.MessengerClient:34 - Test INFO logging.
+12.16:13.29.51  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.29.51  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.29.51  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 2,Petya,someLogin2
+12.16:13.29.51  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:23 - Launching the application...
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:24 - Operating System: Windows 10 10.0
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:28 - JRE: 1.8.0_112
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:29 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:30 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Vovka\.m2\repository\mysql\mysql-connector-java\8.0.8-dmr\mysql-connector-java-8.0.8-dmr.jar;
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:31 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:32 - User Home Directory: C:\Users\Vovka
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:33 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+12.16:13.30.08  INFO	ru.sfedu.messenger.MessengerClient:34 - Test INFO logging.
+12.16:13.30.09  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.30.09  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.30.09  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 2,Petya,someLogin2
+12.16:13.30.09  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:23 - Launching the application...
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:24 - Operating System: Windows 10 10.0
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:28 - JRE: 1.8.0_112
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:29 - Java Launched From: C:\Program Files\Java\jdk1.8.0_112\jre
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:30 - Class Path: C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\test-classes;C:\Users\Vovka\Documents\NetBeansProjects\messenger\target\classes;C:\Users\Vovka\.m2\repository\com\opencsv\opencsv\4.0\opencsv-4.0.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Vovka\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\Vovka\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\Vovka\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Vovka\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\Vovka\.m2\repository\org\simpleframework\simple-xml\2.7.1\simple-xml-2.7.1.jar;C:\Users\Vovka\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Vovka\.m2\repository\stax\stax\1.2.0\stax-1.2.0.jar;C:\Users\Vovka\.m2\repository\xpp3\xpp3\1.1.3.3\xpp3-1.1.3.3.jar;C:\Users\Vovka\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Vovka\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Vovka\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Vovka\.m2\repository\mysql\mysql-connector-java\8.0.8-dmr\mysql-connector-java-8.0.8-dmr.jar;
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:31 - Library Path: C:\Program Files\Java\jdk1.8.0_112\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\MATLAB\R2016b\polyspace\bin;C:\Git\cmd;C:\Program Files\OpenVPN\bin;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;C:\Users\Vovka\AppData\Local\Microsoft\WindowsApps;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64;C:\WinPython-64bit-3.6.3.0Qt5b4\python-3.6.3.amd64\Scripts;;.
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:32 - User Home Directory: C:\Users\Vovka
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:33 - User Working Directory: C:\Users\Vovka\Documents\NetBeansProjects\messenger
+12.16:13.31.20  INFO	ru.sfedu.messenger.MessengerClient:34 - Test INFO logging.
+12.16:13.31.20  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.31.20  INFO	ru.sfedu.messenger.model.CSVDataProvider:151 - 2,mike,mike96
+12.16:13.31.20  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 2,Petya,someLogin2
+12.16:13.31.20  INFO	ru.sfedu.messenger.model.XMLDataProvider:205 - 
+12.16:13.35.07 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:71 - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`messenger`.`messages`, CONSTRAINT `FK_Messages_Topics` FOREIGN KEY (`id_topic`) REFERENCES `Topics` (`id`))
+12.16:13.50.22 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:93 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+12.16:13.52.12 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:93 - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`messenger`.`messages`, CONSTRAINT `FK_Messages_Topics` FOREIGN KEY (`id_topic`) REFERENCES `Topics` (`id`))
+12.16:14.08.27 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:96 - java.sql.SQLSyntaxErrorException: Unknown column 'topic_id' in 'where clause'
+12.16:14.08.58 ERROR	ru.sfedu.messenger.model.JDBCDataProvider:96 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cascade from Topics where id = 1' at line 1
+12.16:17.03.10  INFO	ru.sfedu.messenger.model.JDBCDataProvider:127 - com.mysql.cj.jdbc.result.ResultSetImpl@6ee52dcd

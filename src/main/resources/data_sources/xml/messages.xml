@@ -1,0 +1,14 @@
+<messageList>
+<message>
+   <id>4</id>
+   <body>some body</body>
+   <author>some author</author>
+   <posted>1312312312</posted>
+</message>
+<message>
+   <id>5</id>
+   <body>some second body</body>
+   <author>some another author</author>
+   <posted>1312312312</posted>
+</message>
+</messageList>
